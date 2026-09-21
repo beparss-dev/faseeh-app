@@ -1,0 +1,6 @@
+{
+  "versionCode": 4,
+  "versionName": "2.2",
+  "changelog": "إصلاح تداخل شريط الحالة، الحفاظ على الكبسولة حية في الخلفية، دعم النماذج الصينية وGroq، ودعم التحديثات اللاسلكية الذكية.",
+  "apkUrl": "https://github.com/beparss-dev/faseeh-app/releases/download/v2.2/faseeh.apk"
+}
