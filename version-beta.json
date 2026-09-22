@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "2.4",
-  "changelog": "دعم نظام المسارين (المضمون بمفتاحك الخاص، والمجاني عبر السيرفرات العامة) مع التنقل التلقائي بين السيرفرات عند الضغط، وتحديث قائمة السيرفرات سحابياً.",
-  "apkUrl": "https://github.com/beparss-dev/faseeh-app/releases/download/v2.4/faseeh.apk"
+  "versionCode": 11,
+  "versionName": "2.9",
+  "changelog": "إطلاق فصيح v2.9: ميزة «أشِّر وترجم» الفورية للوالد لقراءة وترجمة الرسائل والأزرار الإنجليزية فوراً، القائمة السريعة المطورة بزرين توأم (أشِّر واقرأ + أشِّر وترجم)، ودعم كامل لتطبيقات البنوك والواتساب.",
+  "apkUrl": "https://raw.githubusercontent.com/beparss-dev/faseeh-app/main/faseeh.apk"
 }
