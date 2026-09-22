@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "2.3",
-  "changelog": "إضافة ميزة التحكم في شفافية الكبسولة العائمة، وتفعيل الفحص التلقائي اليومي عن التحديثات، مع تحسينات في استقرار الاتصال.",
-  "apkUrl": "https://github.com/beparss-dev/faseeh-app/releases/download/v2.3/faseeh.apk"
+  "versionCode": 7,
+  "versionName": "2.5",
+  "changelog": "إطلاق منظومة فصيح العائلية v2.5: دمج ذكاء Gemini 2.5 Flash الكامل لتحويل العامية إلى فصحى راقية، حماية المسار برمز تفعيل عائلي، ونظام الإنقاذ التلقائي المستمر عبر Groq Whisper.",
+  "apkUrl": "https://raw.githubusercontent.com/beparss-dev/faseeh-app/main/faseeh.apk"
 }
