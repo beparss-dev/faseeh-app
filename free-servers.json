@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "notice": "سيرفرات فصيح العامة المجانية — تتنقل تلقائياً في حال الضغط",
+  "servers": [
+    {
+      "name": "Groq Whisper (الافتراضي فائق السرعة)",
+      "type": "openai",
+      "baseUrl": "https://api.groq.com/openai/v1",
+      "apiKey": "",
+      "model": "whisper-large-v3"
+    },
+    {
+      "name": "SiliconFlow (SenseVoice البديل)",
+      "type": "openai",
+      "baseUrl": "https://api.siliconflow.cn/v1",
+      "apiKey": "",
+      "model": "FunAudioLLM/SenseVoiceSmall"
+    }
+  ]
+}
