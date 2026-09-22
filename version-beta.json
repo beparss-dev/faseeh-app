@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "2.3",
-  "changelog": "إضافة ميزة التحكم في شفافية الكبسولة العائمة (من الإعدادات أو بالضغط المطول على الكبسولة مباشرة).",
-  "apkUrl": "https://github.com/beparss-dev/faseeh-app/releases/download/v2.3/faseeh.apk"
+  "versionCode": 6,
+  "versionName": "2.4",
+  "changelog": "دعم نظام المسارين (المضمون بمفتاحك الخاص، والمجاني عبر السيرفرات العامة) مع التنقل التلقائي بين السيرفرات عند الضغط، وتحديث قائمة السيرفرات سحابياً.",
+  "apkUrl": "https://github.com/beparss-dev/faseeh-app/releases/download/v2.4/faseeh.apk"
 }
