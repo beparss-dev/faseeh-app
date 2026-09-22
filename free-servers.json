@@ -1,27 +1,13 @@
 {
-  "version": 2,
-  "notice": "سيرفرات فصيح العامة المجانية — تتنقل تلقائياً في حال الضغط",
+  "version": 3,
+  "notice": "المسار المجاني في فصيح — يمر عبر وسيط فصيح السحابي ولا يحتاج مفتاحاً",
   "servers": [
     {
-      "name": "وسيط فصيح (الافتراضي — لا يحتاج مفتاحاً)",
+      "name": "وسيط فصيح السحابي",
       "type": "openai",
       "baseUrl": "https://faseeh-proxy.faseeh-proxy.workers.dev",
       "apiKey": "",
       "model": "whisper-large-v3"
-    },
-    {
-      "name": "Groq Whisper (يتطلب مفتاحك الخاص)",
-      "type": "openai",
-      "baseUrl": "https://api.groq.com/openai/v1",
-      "apiKey": "",
-      "model": "whisper-large-v3"
-    },
-    {
-      "name": "SiliconFlow (SenseVoice البديل — يتطلب مفتاحاً)",
-      "type": "openai",
-      "baseUrl": "https://api.siliconflow.cn/v1",
-      "apiKey": "",
-      "model": "FunAudioLLM/SenseVoiceSmall"
     }
   ]
 }
